@@ -10,4 +10,4 @@ Like img and script tag, even some data can also make XSS.
 
 #### AGAINST
 
-Avoid to insert unstrusted data to html. It u need, try serialize it before you take it to you web. Some tool like [Yahoo/xss-filters](https://github.com/yahoo/xss-filters) can help you in a comfort way. And also  
+Avoid to insert unstrusted data to html. It u need, try serialize it before you take it to you web. Some tool like [Yahoo/xss-filters](https://github.com/yahoo/xss-filters) can help you in a comfort way. And also    
