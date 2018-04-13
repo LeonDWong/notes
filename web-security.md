@@ -1,0 +1,1 @@
+XSS: Known as cross-site scripting. It can harm your web while some script running without user's consciousness. Like web load a image tag like `<img onError="alert(window.document.cookie)" src="233" />`, and 
