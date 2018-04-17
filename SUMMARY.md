@@ -8,4 +8,5 @@
 * [About Unit](about-unit.md)
 * [Web Security](web-security.md)
 * [About Source Map](about-source-map.md)
+* [random number in crypto](random-number-in-crypto.md)
 

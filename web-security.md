@@ -10,4 +10,4 @@ Like img and script tag, even some data can also make XSS.
 
 #### RESOLUTION
 
-Avoid to insert unstrusted data to html. It u need, try serialize it before you take it to you web. Some tool like [Yahoo/xss-filters](https://github.com/yahoo/xss-filters) can help you in a convinient way. And also 
+Avoid to insert unstrusted data to html. It u need, try serialize it before you take it to you web. Some tool like [Yahoo/xss-filters](https://github.com/yahoo/xss-filters) can help you in a convinient way. And also developer can use [CSP(Content-Security-Policy)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy) or [X-XXS-Protection](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-XSS-Protection) to prevent XSS attack.
