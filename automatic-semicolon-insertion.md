@@ -1,0 +1,1 @@
+FYI, [check here](http://inimino.org/~inimino/blog/javascript_semicolons).

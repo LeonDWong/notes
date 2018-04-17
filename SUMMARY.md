@@ -9,4 +9,5 @@
 * [Web Security](web-security.md)
 * [About Source Map](about-source-map.md)
 * [random number in crypto](random-number-in-crypto.md)
+* [automatic semicolon insertion](automatic-semicolon-insertion.md)
 
