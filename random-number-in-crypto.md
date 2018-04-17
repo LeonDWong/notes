@@ -2,4 +2,10 @@
 e.g.:
 
 ```javascript
+const array = new Uint32Array(10); // generate a 10 element of unsigned int 32 array
+
+window.crypto.getRandomValues(array); // generate a bunch of random value
+
+console.log(array); // 10 elements of random value number
+
 ```
