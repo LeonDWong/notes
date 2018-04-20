@@ -35,3 +35,4 @@ This header prevents "mime" based attacks. This header prevents Internet Explore
 
 #### X-Frame-Options
 
+#### Strict-Transport-Security
