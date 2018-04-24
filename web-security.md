@@ -35,4 +35,12 @@ This header prevents "mime" based attacks. This header prevents Internet Explore
 
 #### X-Frame-Options
 
+The **X-Frame-Options** HTTP response header can be used to indicate whether or not a browser should be allowed to render a page in a `<frame>`, `<iframe>` or `<object>` . Sites can use this to avoid **clickjacking** attacks, by ensuring that their content is not embedded into other sites.
+
+> X-Frame-Options: DENY
+> X-Frame-Options: SAMEORIGIN
+> X-Frame-Options: ALLOW-FROM https://example.com/
+
 #### Strict-Transport-Security
+
+
