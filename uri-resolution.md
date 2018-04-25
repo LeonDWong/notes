@@ -4,7 +4,7 @@ Url is defined subset of URIs. According to [RFC 3986](http://www.ietf.org/rfc/r
 Within a representation with a well defined base URI of: 
 http://a/b/c/d;p?q
 
-a relative reference is transformed to its target URI as follows:
+A relative reference is transformed to its target URI as follows:
 "g:h"           =  "g:h"
 "g"             =  "http://a/b/c/g"
 "./g"           =  "http://a/b/c/g"
@@ -29,3 +29,7 @@ a relative reference is transformed to its target URI as follows:
 "../../"        =  "http://a/"
 "../../g"       =  "http://a/g"
 ``` 
+
+#### Tip
+
+* No schema link `//a` will open a url with same protocol as his refer site.
