@@ -52,4 +52,9 @@ The HTTP **Strict-Transport-Security** response header (often abbreviated as HST
 #### rel=noopener
 
 A link can open a web in new tab usually looks like `<a href="http://new.link.com" target="_blank"></a>` in **site a**, when user click it, a new web in new tab occurs. Hmmmmm, everything fine yet. But you print `console.log(window.opener.document.cookie)` in browser console, and cookie of **site a** is printed in console, even `alert(1)` is working for **site a** too.
-Avoiding potential security vulnerability, you can re-define the link tag with **rel=noopener**`<a href="http://new.link.com" target="_blank" rel="noopener"></a>`. And the `console.log(window.opener)` will output `null`. Cool, even you want to support old ie browser, you can add `rel="noopener norefer"` as well(no refer in header for new link webpage).
+Avoiding potential security vulnerability, you can define the link tag with **rel=noopener**`<a href="http://new.link.com" target="_blank" rel="noopener"></a>`. And the `console.log(window.opener)` will output `null`. Cool, even you want to support MS's browser(`noopener won't work for ie and edge`), you can add `rel="noopener norefer"` as well(no refer in header for new link webpage). Besides, javascript support is available.
+
+> var otherWindow = window.open();
+> otherWindow.opener = null;
+> otherWindow.location = url;
+
