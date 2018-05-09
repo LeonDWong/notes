@@ -1,3 +1,5 @@
+## Laws
+
 1. Engineering is done with numbers. Analysis without numbers is only an opinion.
 > 工程化是由数字完成的。不包含数字的分析仅仅是观点。
 
@@ -132,3 +134,7 @@
 
 42. Space is a completely unforgiving environment. If you screw up the engineering, somebody dies (and there's no partial credit because most of the analysis was right...)
 > 太空是一个完全无情的环境。如果你在工程中搞砸了，某人会死。
+
+
+## Other
+[Akin's LAWS](http://spacecraft.ssl.umd.edu/akins_laws.html?__s=ecoqrensc6fdgmbksadk)
