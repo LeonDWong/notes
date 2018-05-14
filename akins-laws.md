@@ -19,7 +19,7 @@
 > 如果用马克笔来做记录的话，每件事都是线性的。
 
 7. At the start of any design effort, the person who most wants to be team leader is least likely to be capable of it.
-> 在设计的开始之初，最有资格领导一个队伍的人是有能力设计的人。
+> 在设计的开始之初，最有资格领导一个队伍的人至少是有能力设计的人。
 
 8. In nature, the optimum is almost always in the middle somewhere. Distrust assertions that the optimum is at an extreme point.
 > 自然的说，最适合的往往是在中间某处。不要相信那些说最适合是在极端的断言。
@@ -58,7 +58,7 @@
 > 众多的可能性会阻止你变得比世上任何人都聪明。如果你的分析说你的最终速度是光速的两倍，你可能发明了曲速引擎，但更可能的是你搞错了。
 
 20. A bad design with a good presentation is doomed eventually. A good design with a bad presentation is doomed immediately.
-> 一个坏的设计加上一个好的表现最后会完蛋。一个好的设计加上一个坏的表单会立马完蛋。
+> 一个坏的设计加上一个好的表现终究会完蛋。一个好的设计加上一个坏的表现会立马完蛋。
 
 21. (Larrabee's Law) Half of everything you hear in a classroom is crap. Education is figuring out which half is which.
 > 你在教室里听的东西有一半是胡扯。受教育就是能够分辨出那一半是哪一半。
@@ -67,7 +67,7 @@
 > 遇到疑问时，用文档记录下来。
 
 23. The schedule you develop will seem like a complete work of fiction up until the time your customer fires you for not meeting it.
-> 你开发的计划会像一个完整的小说工作知道你的顾客因为看不到它而把你炒了。
+> 你开发的计划会像一个完整的小说工作直到你的顾客因为看不到它而把你炒了。
 
 24. It's called a "Work Breakdown Structure" because the Work remaining will grow until you have a Breakdown, unless you enforce some Structure on it.
 > 它被称为“工作 故障 架构”，因为“工作”会一直堆积直到“故障”发生，除非你对它强制使用一些“架构”。
@@ -109,7 +109,7 @@
 > 任何平凡的工程师可以设计出优美的东西。一个好的工程师设计系统来达到高效。一个更好的工程师设计系统来达到有效。
 
 37. (Henshaw's Law) One key to success in a mission is establishing clear lines of blame.
-> 在一件任务的成功关键是明确个字的责任。
+> 在一件任务的成功关键是明确各自的责任。
 
 38. Capabilities drive requirements, regardless of what the systems engineering textbooks say.
 > 能力驱动需求，不管系统工程说明书上是怎么说的。
