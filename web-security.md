@@ -43,7 +43,7 @@ The **X-Frame-Options** HTTP response header can be used to indicate whether or 
 
 #### Strict-Transport-Security
 
-The HTTP **Strict-Transport-Security** response header (often abbreviated as HSTS)  lets a web site tell browsers that it should only be accessed using HTTPS, instead of using HTTP.
+The HTTP **Strict-Transport-Security** response header (often abbreviated as HSTS)  lets a web site tell browsers that it should only be accessed using HTTPS, instead of using HTTP.(using in https site)
 
 > Strict-Transport-Security: max-age=<expire-time>
 > Strict-Transport-Security: max-age=<expire-time>; includeSubDomains
