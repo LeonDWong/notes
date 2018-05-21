@@ -12,4 +12,5 @@
 * [automatic semicolon insertion](automatic-semicolon-insertion.md)
 * [URI resolution](uri-resolution.md)
 * [AKINS LAWS](akins-laws.md)
+* [forwarproxy and reverseproxy](forwarproxy-and-reverseproxy.md)
 
