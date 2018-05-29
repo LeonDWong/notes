@@ -1,31 +1,41 @@
 ## Laws
 
-1. Engineering is done with numbers. Analysis without numbers is only an opinion.
-> 工程化是由数字完成的。不包含数字的分析仅仅是观点。
+1. 工程化是由数字完成的。不包含数字的分析仅仅是观点。
+> Engineering is done with numbers. Analysis without numbers is only an opinion.
+`个人理解：成功的工程化是可以估量的，而估量必须要有数据。这对于软件开发亦是同理，你的应用快了多少？PV、UV 增加了多少？等等，这些都是可衡量的，并且是非常宝贵且必须的数据。`
 
-2. To design a spacecraft right takes an infinite amount of effort. This is why it's a good idea to design them to operate when some things are wrong.
-> 设计一个好的太空船会花费无止尽的努力。这就是为什么在问题出现的时候再去通过设计使他们运行是一个好主意。
+2. 设计一个好的太空船会花费无止尽的努力。这就是为什么在问题出现的时候再去通过设计使他们运行是一个好主意
+> To design a spacecraft right takes an infinite amount of effort. This is why it's a good idea to design them to operate when some things are wrong.
+`个人理解：对于一个应用的开发历程，没办法一开始就设计的 100% 完美，必须通过不断的迭代，发现问题，解决问题来完善应用，与 Scrum 中的‘行走的骨架’类似。`
 
-3. Design is an iterative process. The necessary number of iterations is one more than the number you have currently done. This is true at any point in time.
-> 设计是一个可迭代的过程。必要的迭代数比你已经做完的迭代数更多。这在任何时候都是真实存在的。
+3. 设计是一个可迭代的过程。必要的迭代数比你已经做完的迭代数更多。这在任何时候都是真实存在的。
+> Design is an iterative process. The necessary number of iterations is one more than the number you have currently done. This is true at any point in time.
+`个人理解：一个好的项目迭代是无止境的，除非这个项目死了`
 
-4. Your best design efforts will inevitably wind up being useless in the final design. Learn to live with the disappointment.
-> 你最好的设计的努力将会不可避免的在最后设计中变得没用。学会拥抱失望。
+4. 你最好的设计的努力将会不可避免的在最后设计中变得没用。学会拥抱失望。
+> Your best design efforts will inevitably wind up being useless in the final design. Learn to live with the disappointment.
+`个人理解：针对某个技术进行调研，可能你准备了 3 套方案，最终被采纳的，不是你认为最好的方案。Take it easy。`
 
-5. (Miller's Law) Three points determine a curve.
-> 3点决定一个曲线
+5. 3点决定一个曲线
+> (Miller's Law) Three points determine a curve.
+`个人理解：世间万物都有规律，数据亦有模式。*`
 
-6. (Mar's Law) Everything is linear if plotted log-log with a fat magic marker.
-> 如果用马克笔来做记录的话，每件事都是线性的。
+6. 如果用马克笔来做记录的话，每件事都是线性的。
+> (Mar's Law) Everything is linear if plotted log-log with a fat magic marker.
+`个人理解：把项目中心里程碑连起来的话，大概能得到一个曲线，甚至直线，但绝不是波浪线。`
 
-7. At the start of any design effort, the person who most wants to be team leader is least likely to be capable of it.
-> 在设计的开始之初，最有资格领导一个队伍的人至少是有能力设计的人。
+7. 在设计的开始之初，最有资格领导一个队伍的人至少是有能力设计的人。
+> At the start of any design effort, the person who most wants to be team leader is least likely to be capable of it.
+`个人理解：不懂技术的人来管技术团队，大概率会变成一场灾难。`
 
-8. In nature, the optimum is almost always in the middle somewhere. Distrust assertions that the optimum is at an extreme point.
-> 自然的说，最适合的往往是在中间某处。不要相信那些说最适合是在极端的断言。
+8. 自然的说，最适合的往往是在中间某处。不要相信那些说最适合是在极端的断言。
+> In nature, the optimum is almost always in the middle somewhere. Distrust assertions that the optimum is at an extreme point.
+`个人理解：正态分布？？？*`
 
-9. Not having all the information you need is never a satisfactory excuse for not starting the analysis.
-> 没有你所需的所有信息绝不是作为不开始分析的一个令人信服的借口
+9. 没有你所需的所有信息绝不是作为不开始分析的一个令人信服的借口。
+>
+Not having all the information you need is never a satisfactory excuse for not starting the analysis.
+Not having all the information you need is never a satisfactory excuse for not starting the analysis.
 
 10. When in doubt, estimate. In an emergency, guess. But be sure to go back and clean up the mess when the real numbers come along.
 > 在怀疑的时候，去鉴定。在紧急的时候，去猜测。但要保证在确定之后能够回过头来处理问题。
@@ -43,7 +53,7 @@
 > “更好”是“好”的敌人
 
 15. (Shea's Law) The ability to improve a design occurs primarily at the interfaces. This is also the prime location for screwing it up.
-> 提升设计的能力最初体现在表面。这也是最初可以把他搞砸的地方。
+> 提升设计的能力最初体现在接口。这也是最初可以把他搞砸的地方。
 
 16. The previous people who did a similar analysis did not have a direct pipeline to the wisdom of the ages. There is therefore no reason to believe their analysis over yours. There is especially no reason to present their analysis as yours.
 > 前人所做的类似分析并没有直接得到年代所累积的智慧的恩惠。因此没有理由去觉得他们的分析比你的更可信。更没有理由把他们的分析当成你的。
@@ -73,7 +83,7 @@
 > 它被称为“工作 故障 架构”，因为“工作”会一直堆积直到“故障”发生，除非你对它强制使用一些“架构”。
 
 25. (Bowden's Law) Following a testing failure, it's always possible to refine the analysis to show that you really had negative margins all along.
-> 跟随一个测试的失败，精炼展示你有消极留白的分析。
+> 追寻一个测试的失败，他可以能精炼分析来展示你一直有消极落差。
 
 26. (Montemerlo's Law) Don't do nuthin' dumb.
 > 不要做非正演讲这种傻事
@@ -112,7 +122,7 @@
 > 在一件任务的成功关键是明确各自的责任。
 
 38. Capabilities drive requirements, regardless of what the systems engineering textbooks say.
-> 能力驱动需求，不管系统工程说明书上是怎么说的。
+> 性能驱动需求，不管系统工程说明书上是怎么说的。
 
 39. Any exploration program which "just happens" to include a new launch vehicle is, de facto, a launch vehicle program.
 > 任何“刚好”包含一个火箭的探索项目，实际上，就是一个火箭项目。
