@@ -33,42 +33,52 @@
 `个人理解：正态分布？？？*`
 
 9. 没有你所需的所有信息绝不是作为不开始分析的一个令人信服的借口。
->
-Not having all the information you need is never a satisfactory excuse for not starting the analysis.
-Not having all the information you need is never a satisfactory excuse for not starting the analysis.
+> Not having all the information you need is never a satisfactory excuse for not starting the analysis.
+`个人理解：覆盖不够全面的分析总比没有分析来的强。`
 
-10. When in doubt, estimate. In an emergency, guess. But be sure to go back and clean up the mess when the real numbers come along.
-> 在怀疑的时候，去鉴定。在紧急的时候，去猜测。但要保证在确定之后能够回过头来处理问题。
+10. 在怀疑的时候，去鉴定。在紧急的时候，去猜测。但要保证在确定之后能够回过头来处理问题。
+> When in doubt, estimate. In an emergency, guess. But be sure to go back and clean up the mess when the real numbers come along.
+`个人理解：大胆推理，小心论证。并且最重要的是能解决问题。`
 
-11. Sometimes, the fastest way to get to the end is to throw everything out and start over.
-> 某些时候，通往终点最快的方法是抛开一切，立马开始。
+11. 某些时候，通往终点最快的方法是抛开一切，立马开始。
+> Sometimes, the fastest way to get to the end is to throw everything out and start over.
+`个人理解：保证项目不会过时，比如一个双 11 活动，即使再设计得再好，过了双 11 没意义了。`
 
-12. There is never a single right solution. There are always multiple wrong ones, though.
-> 正确的解决方式决不止一个。虽然错误的方式有一堆。
+12. 正确的解决方式决不止一个。即使错误的方式有一堆。
+> There is never a single right solution. There are always multiple wrong ones, though.
+`个人理解：工程师思维必须开放，能够快速接受新事物。`
 
-13. Design is based on requirements. There's no justification for designing something one bit "better" than the requirements dictate.
-> 设计基于需求。某个东西设计得比需求要求的“更好”，并不是一个正当的行为。
+13. 设计基于需求。某个东西设计得比需求要求的“更好”，并不是一个正当的行为。
+> Design is based on requirements. There's no justification for designing something one bit "better" than the requirements dictate.
+`个人理解：自己为 PRD 上没有的功能而加班，大概连宵夜都没有。`
 
-14. (Edison's Law) "Better" is the enemy of "good".
-> “更好”是“好”的敌人
+14. “更好”是“好”的敌人
+> (Edison's Law) "Better" is the enemy of "good".
+`个人理解：你设计的应用已经足够好的时候，没必要为了 5% 的提升，去花费原来 100% 的资源去做优化，不论如何，还是要给予需求。`
 
-15. (Shea's Law) The ability to improve a design occurs primarily at the interfaces. This is also the prime location for screwing it up.
-> 提升设计的能力最初体现在接口。这也是最初可以把他搞砸的地方。
+15. 提升设计的能力最初体现在接口。这也是最初可以把他搞砸的地方。
+> (Shea's Law) The ability to improve a design occurs primarily at the interfaces. This is also the prime location for screwing it up.
+`个人理解：提供简单，稳定，可用，可扩展的接口，大家都喜欢。反之。`
 
-16. The previous people who did a similar analysis did not have a direct pipeline to the wisdom of the ages. There is therefore no reason to believe their analysis over yours. There is especially no reason to present their analysis as yours.
-> 前人所做的类似分析并没有直接得到年代所累积的智慧的恩惠。因此没有理由去觉得他们的分析比你的更可信。更没有理由把他们的分析当成你的。
+16. 前人所做的类似分析并没有直接得到年代所累积的智慧的恩惠。因此没有理由去觉得他们的分析比你的更可信。更没有理由把他们的分析当成你的。
+> The previous people who did a similar analysis did not have a direct pipeline to the wisdom of the ages. There is therefore no reason to believe their analysis over yours. There is especially no reason to present their analysis as yours.
+`个人理解：不要盲信。*`
 
-17. The fact that an analysis appears in print has no relationship to the likelihood of its being correct.
-> 分析被公众于世这件事与它正确的可能性无关
+17. 分析被公众于世这件事与它正确的可能性无关。
+> The fact that an analysis appears in print has no relationship to the likelihood of its being correct.
+`个人理解：不要盲信。*`
 
-18. Past experience is excellent for providing a reality check. Too much reality can doom an otherwise worthwhile design, though.
-> 过去的经验对于确认一个件事的真实是非常出色的。虽然过多的真实会会毁掉其他有价值的设计。
+18. 过去的经验对于确认一个件事的真实是非常出色的。即使过多的真实会会毁掉其他有价值的设计。
+> Past experience is excellent for providing a reality check. Too much reality can doom an otherwise worthwhile design, though.
+`个人理解：不要过于依赖经验论。`
 
-19. The odds are greatly against you being immensely smarter than everyone else in the field. If your analysis says your terminal velocity is twice the speed of light, you may have invented warp drive, but the chances are a lot better that you've screwed up.
-> 众多的可能性会阻止你变得比世上任何人都聪明。如果你的分析说你的最终速度是光速的两倍，你可能发明了曲速引擎，但更可能的是你搞错了。
+19. 众多的可能性会阻止你变得比世上任何人都聪明。如果你的分析说你的终端速度是光速的两倍，你可能发明了曲速引擎，但更可能的是你搞错了。
+> The odds are greatly against you being immensely smarter than everyone else in the field. If your analysis says your terminal velocity is twice the speed of light, you may have invented warp drive, but the chances are a lot better that you've screwed up.
+`个人理解：hmmmmmmm。*`
 
-20. A bad design with a good presentation is doomed eventually. A good design with a bad presentation is doomed immediately.
-> 一个坏的设计加上一个好的表现终究会完蛋。一个好的设计加上一个坏的表现会立马完蛋。
+20. 一个坏的设计加上一个好的表现终究会完蛋。一个好的设计加上一个坏的表现会立马完蛋。
+> A bad design with a good presentation is doomed eventually. A good design with a bad presentation is doomed immediately.
+`个人理解：`
 
 21. (Larrabee's Law) Half of everything you hear in a classroom is crap. Education is figuring out which half is which.
 > 你在教室里听的东西有一半是胡扯。受教育就是能够分辨出那一半是哪一半。
