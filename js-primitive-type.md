@@ -39,5 +39,5 @@ Look at the example:
 typeof null // 'object'
 ```
 
-
+Hmmmmmm, why it cause is the `null` in javascript has its location which is `0x00`, and its primitive type is `0`, which is the type value of `Object`. So it express `object` instead of `null`.........
 
