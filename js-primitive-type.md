@@ -10,18 +10,34 @@ All primitives are **immutable**, i.e., they cannot be altered. It is important 
 ## Example
 
 ```javascript
-// Using a string method doesn't mutate the string
-var bar = "baz";
-console.log(bar);               // baz
-bar.toUpperCase()
-console.log(bar);               // baz
+// The Primitive 
+let foo = 5;
 
-// Using an array method mutates the array
-var foo = [];
-console.log(foo);               // []
-foo.push("plugh");
-console.log(foo);               // ["plugh"]
+// A function to change the Primitive value
+function addTwo(foo) {
+   foo = foo + 2;
+}
 
-// Assignment gives the primitive a new (not a mutated) value
-bar = bar.toUpperCase();       // BAZ
+// Pass our Primitive as an argument to `addTwo()` function
+addTwo(foo);
+
+// Get the current Primitive value
+console.log(foo);   // 5
 ```
+> The contnet above comes from MDN document
+
+
+Primitive value has its own location in memory and can't be mutated. Once it pass to function as parameter, the `foo` declared in `addTwo` will create a new location for `foo` in function, therefore, the plus expression is not work for original `foo`.
+
+
+## One more thing
+
+`Null` is a dark shit in javascript as well. Because any primitive variable can print its correct primitive type by `typeof sth === 'type'` except `null`.
+
+Look at the example:
+```javascript
+typeof null // 'object'
+```
+
+
+
