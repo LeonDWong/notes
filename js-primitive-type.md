@@ -13,7 +13,7 @@ All primitives are **immutable**, i.e., they cannot be altered. It is important 
 // The Primitive 
 let foo = 5;
 
-// A function to change the Primitive value
+// A function to change the Primitive value. FYI, not only primitive, but array like foo = [1], and operate like foo = [1, 2], the print foo will still be [1]. 
 function addTwo(foo) {
    foo = foo + 2;
 }
