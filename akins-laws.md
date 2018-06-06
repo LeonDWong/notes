@@ -102,10 +102,12 @@
 
 26. 不要做非正演讲这种傻事
 > (Montemerlo's Law) Don't do nuthin' dumb.
-`个人理解：`
+`个人理解：学会大声说话，清楚自己的定位。工程师很容易给人一种 nerd 的感觉。`
 
-27. (Varsi's Law) Schedules only move in one direction.
-> 计划只会从一个方向涌进来。
+27. 计划只会从一个方向涌进来。
+
+(Varsi's Law) Schedules only move in one direction.
+> (Varsi's Law) Schedules only move in one direction.
 
 28. (Ranger's Law) There ain't no such thing as a free launch.
 > 世上没有那么多的免费的午餐。
