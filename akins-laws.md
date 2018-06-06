@@ -76,27 +76,33 @@
 > The odds are greatly against you being immensely smarter than everyone else in the field. If your analysis says your terminal velocity is twice the speed of light, you may have invented warp drive, but the chances are a lot better that you've screwed up.
 `个人理解：hmmmmmmm。*`
 
-20. 一个坏的设计加上一个好的表现终究会完蛋。一个好的设计加上一个坏的表现会立马完蛋。
+20. 一个坏的设计加上一个好的说明终究会完蛋。一个好的设计加上一个坏的说明会立马完蛋。
 > A bad design with a good presentation is doomed eventually. A good design with a bad presentation is doomed immediately.
-`个人理解：`
+`个人理解：对工程师来说，表达能力同样重要。如果你不能在关键场合很好的表述你的成果，那么你的成果很可能会付诸东流。例如：年度考核，推销新系统`
 
-21. (Larrabee's Law) Half of everything you hear in a classroom is crap. Education is figuring out which half is which.
-> 你在教室里听的东西有一半是胡扯。受教育就是能够分辨出那一半是哪一半。
+21. 你在教室里听的东西有一半是胡扯。受教育就是能够分辨出那一半是哪一半。
+> (Larrabee's Law) Half of everything you hear in a classroom is crap. Education is figuring out which half is which.
+`个人理解：对于知识更新比较快的领域来说，很可能学校的教程会显得落伍，好的老师不单单会教你书本上的知识，也会告诉你哪些是有用的，哪些是没用的。（对于应试教育来说，感觉更是如此）`
 
-22. When in doubt, document. (Documentation requirements will reach a maximum shortly after the termination of a program.)
-> 遇到疑问时，用文档记录下来。
+22. 遇到疑问时，用文档记录下来。
+> When in doubt, document. (Documentation requirements will reach a maximum shortly after the termination of a program.)
+`个人理解：遇到问题就记下来，不要因为刻意忽略掉。因为你记录的问题，在未来得到答案后，不仅有利于你自身的成长，还有助于避免因隐藏的问题导致的严重后果。`
 
 23. The schedule you develop will seem like a complete work of fiction up until the time your customer fires you for not meeting it.
 > 你开发的计划会像一个完整的小说工作直到你的顾客因为看不到它而把你炒了。
+`个人理解：项目的迭代都是可持续的，很少有一锤子买卖，迭代会在需求消失的时候断掉。`
 
-24. It's called a "Work Breakdown Structure" because the Work remaining will grow until you have a Breakdown, unless you enforce some Structure on it.
-> 它被称为“工作 故障 架构”，因为“工作”会一直堆积直到“故障”发生，除非你对它强制使用一些“架构”。
+24. 它被称为“工作 故障 架构”，因为“工作”会一直堆积直到“故障”发生，除非你对它强制使用一些“架构”。
+> It's called a "Work Breakdown Structure" because the Work remaining will grow until you have a Breakdown, unless you enforce some Structure on it.
+`个人理解：架构的重要性，虽然使用某些架构也并不是银弹。`
 
-25. (Bowden's Law) Following a testing failure, it's always possible to refine the analysis to show that you really had negative margins all along.
-> 追寻一个测试的失败，他可以能精炼分析来展示你一直有消极落差。
+25. 追寻一个测试的失败，一直都有可能精炼分析来展示你一直有负面区间。
+> (Bowden's Law) Following a testing failure, it's always possible to refine the analysis to show that you really had negative margins all along.
+`个人理解：测试中出现的错误，肯定是有原因的，不要因为难以复现就忽略。工程师犯错可以被原谅，但隐藏错误就不可原谅。`
 
-26. (Montemerlo's Law) Don't do nuthin' dumb.
-> 不要做非正演讲这种傻事
+26. 不要做非正演讲这种傻事
+> (Montemerlo's Law) Don't do nuthin' dumb.
+`个人理解：`
 
 27. (Varsi's Law) Schedules only move in one direction.
 > 计划只会从一个方向涌进来。
@@ -104,11 +110,13 @@
 28. (Ranger's Law) There ain't no such thing as a free launch.
 > 世上没有那么多的免费的午餐。
 
-29. (von Tiesenhausen's Law of Program Management) To get an accurate estimate of final program requirements, multiply the initial time estimates by pi, and slide the decimal point on the cost estimates one place to the right.
-> 要得到一个对于最终项目需求的精确评估，需要把一开始的时间评估乘以PI，并且把十位数的小数点往右移一位。
+29. 要得到一个对于最终项目需求的精确评估，需要把一开始的时间评估乘以PI，并且把十位数的小数点往右移一位。
+> (von Tiesenhausen's Law of Program Management) To get an accurate estimate of final program requirements, multiply the initial time estimates by pi, and slide the decimal point on the cost estimates one place to the right.
+`个人理解：低估开发所需工期，永远是项目 delay 的一大主要原因。迭代限制在一个可控的时间内是一个比较明智的选择。`
 
-30. (von Tiesenhausen's Law of Engineering Design) If you want to have a maximum effect on the design of a new engineering system, learn to draw. Engineers always wind up designing the vehicle to look like the initial artist's concept.
-> 如果你想要设计新的工程系统的最大的效果，学会去画图。工程师们总是顺利设计一辆跟最初画家概念相似的车。
+30. 如果你想要设计新的工程系统的最大的效果，学会去画图。工程师们总是顺利设计一辆跟最初画家概念相似的车。
+> (von Tiesenhausen's Law of Engineering Design) If you want to have a maximum effect on the design of a new engineering system, learn to draw. Engineers always wind up designing the vehicle to look like the initial artist's concept.
+
 
 31. (Mo's Law of Evolutionary Development) You can't get to the moon by climbing successively taller trees.
 > 你无法通过爬树去月球。
@@ -125,17 +133,19 @@
 35. (de Saint-Exupery's Law of Design) A designer knows that he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.
 > 一个设计师知道他做到完美的时候，不是没什么可以加上去的了，而是没什么可以被拿掉的了。
 
-36. Any run-of-the-mill engineer can design something which is elegant. A good engineer designs systems to be efficient. A great engineer designs them to be effective.
-> 任何平凡的工程师可以设计出优美的东西。一个好的工程师设计系统来达到高效。一个更好的工程师设计系统来达到有效。
+36. 任何平凡的工程师可以设计出优美的东西。一个好的工程师设计系统来达到高效。一个更好的工程师设计系统来达到有效。
+> Any run-of-the-mill engineer can design something which is elegant. A good engineer designs systems to be efficient. A great engineer designs them to be effective.
+`个人理解：一个工程师最主要的就是解决关键问题。过度设计并不是一个好的现象。更好的工程师的设计出的有效解决问题的系统，而不是优美，高效率完成的系统。`
 
 37. (Henshaw's Law) One key to success in a mission is establishing clear lines of blame.
 > 在一件任务的成功关键是明确各自的责任。
 
-38. Capabilities drive requirements, regardless of what the systems engineering textbooks say.
-> 性能驱动需求，不管系统工程说明书上是怎么说的。
+38. 性能驱动需求，不论系统工程说明书上是怎么说的。
+> Capabilities drive requirements, regardless of what the systems engineering textbooks say.
+`个人理解：很多时候在定义项目需求的时候，都需要 RD 先进行技术调研，那是因为只有明确当前的技术能支持到什么地步，才可以真正确定能做到什么程度。具体问题，具体分析。`
 
-39. Any exploration program which "just happens" to include a new launch vehicle is, de facto, a launch vehicle program.
-> 任何“刚好”包含一个火箭的探索项目，实际上，就是一个火箭项目。
+39. 任何“刚好”包含一个火箭的探索项目，实际上，就是一个火箭项目。
+> Any exploration program which "just happens" to include a new launch vehicle is, de facto, a launch vehicle program。
 
 39. (alternate formulation) The three keys to keeping a new human space program affordable and on schedule:
        1)  No new launch vehicles.
