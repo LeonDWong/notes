@@ -231,5 +231,6 @@
 
 [Akin's LAWS](http://spacecraft.ssl.umd.edu/akins_laws.html?__s=ecoqrensc6fdgmbksadk)
 
-[Other Explanation](http://www.ece.uvic.ca/~elec399/201409/Akin's%20Laws%20of%20Spacecraft%20Design.pdf)
+<a href="http://www.ece.uvic.ca/~elec399/201409/Akin's%20Laws%20of%20Spacecraft%20Design.pdf" target="_blank" rel="noopener">Other Explanation</a>
+
 
