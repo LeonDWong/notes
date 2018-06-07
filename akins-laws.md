@@ -1,4 +1,10 @@
+## Preview
+
+在某次订阅邮件中看到这篇 [Akin's LAWS](http://spacecraft.ssl.umd.edu/akins_laws.html?__s=ecoqrensc6fdgmbksadk)，感觉里面的观点一个工程师来说都是值得借鉴和思考的，故而凭借着自己有限的理解能力和翻译能力进行了汉化，以此自省，如何做一个更好的工程师。
+
 ## Laws
+
+> 带 \* 的是目前还无法很好理解的，如果有任何观点，欢迎在 issue 里提出。
 
 1. 工程化是由数字完成的。不包含数字的分析仅仅是观点。
 
@@ -133,7 +139,7 @@
 27. 计划只会从一个方向移动。
 
     > \(Varsi's Law\) Schedules only move in one direction.  
-    > `个人理解：项目排期都可以整成一个时间线，留有足够的空间，可以保证整天时间线不会特殊事件而打乱。（实际上排期一般不会考虑到突发状况，一旦出现，都是临时调整排期，或者直接 delay）`
+    > `个人理解：项目排期都可以整成一个时间线，留有足够的空间，可以保证整个时间线不会因为特殊事件而打乱。（实际上排期一般不会考虑到突发状况，一旦出现，都是临时调整排期，或者直接 delay）`
 
 28. 世上没有免费的发射井。
 
@@ -142,7 +148,7 @@
 
 29. 要得到一个对于最终项目需求的精确评估，需要把一开始的时间评估乘以PI，并且把十位数的小数点往右移一位。
 
-    > (von Tiesenhausen's Law of Program Management) To get an accurate estimate of final program requirements, multiply the initial time estimates by pi, and slide the decimal point on the cost estimates one place to the right.  
+    > \(von Tiesenhausen's Law of Program Management\) To get an accurate estimate of final program requirements, multiply the initial time estimates by pi, and slide the decimal point on the cost estimates one place to the right.  
     > `个人理解：低估开发所需工期，永远是项目 delay 的一大主要原因。迭代限制在一个可控的时间内是一个比较明智的选择。`
 
 30. 如果你想要设计新的工程系统的最大的效果，学会去画图。工程师们总是顺利设计一辆跟最初画家概念相似的车。
@@ -183,7 +189,7 @@
 37. 在一件任务的成功关键是明确各自的责任。
 
     > \(Henshaw's Law\) One key to success in a mission is establishing clear lines of blame.  
-    > `个人理解：明确并承担自己的责任是任何人在做任何是都应做的，没有人愿意和不负责任的人一起工作。`
+    > `个人理解：明确并承担自己的责任是任何人在做任何事都应做的，没有人愿意和不负责任的人一起工作。`
 
 38. 性能驱动需求，不论系统工程说明书上是怎么说的。
 
@@ -195,36 +201,35 @@
     > Any exploration program which "just happens" to include a new launch vehicle is, de facto, a launch vehicle program。  
     > `个人理解：即使换了实现语言，一个 CRUD 服务就是一个 CRUD 服务。`
 
-40. 保证一个新的人类太空项目预算足够并且按照计划有三个关键
-       1) 没有新的火箭
-       2) 没有新的火箭
-       3) 不管你做什么，不要开发任何新的火箭       
-> (alternate formulation) The three keys to keeping a new human space program affordable and on schedule:  
-> 1) No new launch vehicles. 
-> 2) No new launch vehicles.  
-> 3) Whatever you do, don't develop any new launch vehicles.
-> `个人理解：避免不停重复造轮子。`
+40. 保证一个新的人类太空项目预算足够并且按照计划有三个关键  
+       1\) 没有新的火箭  
+       2\) 没有新的火箭  
+       3\) 不管你做什么，不要开发任何新的火箭
+
+    > \(alternate formulation\) The three keys to keeping a new human space program affordable and on schedule:  
+    > 1\) No new launch vehicles.   
+    > 2\) No new launch vehicles.  
+    > 3\) Whatever you do, don't develop any new launch vehicles.  
+    > `个人理解：避免不停重复造轮子。`
 
 41. 直到你让它工作起来之前，你都无法让它变得更好。
 
-   > \(McBryan's Law\) You can't make it better until you make it work.
-   > `个人理解：先完成核心功能，再去寻求优化。` 
+    > \(McBryan's Law\) You can't make it better until you make it work.  
+    > `个人理解：先完成核心功能，再去寻求优化。`
 
 42. 一直以来都没有足够的时间去做好，但某种程度上，一直都有把它做完的时间。
 
-   > There's never enough time to do it right, but somehow, there's always enough time to do it over.
-   > `个人理解：某个项目在开始的时候，没有足够的时间去设计好，那么，在之后肯定会花不少时间去优化，重构。`
-   
+    > There's never enough time to do it right, but somehow, there's always enough time to do it over.  
+    > `个人理解：某个项目在开始的时候，没有足够的时间去设计好，那么，在之后肯定会花不少时间去优化，重构。`
 
-43. 太空是一个完全无情的环境。如果你在工程中搞砸了，某人会死
+1. 太空是一个完全无情的环境。如果你在工程中搞砸了，某人会死
 
-   > Space is a completely unforgiving environment. If you screw up the engineering, somebody dies \(and there's no partial credit because most of the analysis was right...\)
-   > `个人理解：对于平常的软件开发，或许不会出现这么严重的后果。但如果某次更新的代码 bug 导致用户流失，甚至造成 PR 事件，造成资损。那么后果同样很严重，千万不要轻视自己的工作成果。` 
-
+   > Space is a completely unforgiving environment. If you screw up the engineering, somebody dies \(and there's no partial credit because most of the analysis was right...\)  
+   > `个人理解：对于平常的软件开发，或许不会出现这么严重的后果。但如果某次更新的代码 bug 导致用户流失，甚至造成 PR 事件，造成资损。那么后果同样很严重，千万不要轻视自己的工作成果。`
 
 ## Other
 
 [Akin's LAWS](http://spacecraft.ssl.umd.edu/akins_laws.html?__s=ecoqrensc6fdgmbksadk)
 
-[Explainaton](http://www.ece.uvic.ca/~elec399/201409/Akin's%20Laws%20of%20Spacecraft%20Design.pdf)
+[Other Explanation](http://www.ece.uvic.ca/~elec399/201409/Akin's%20Laws%20of%20Spacecraft%20Design.pdf)
 
