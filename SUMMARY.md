@@ -14,4 +14,5 @@
 * [forwarproxy and reverseproxy](forwarproxy-and-reverseproxy.md)
 * [JS primitive](js-primitive-type.md)
 * [OpenSearch](opensearch.md)
+* [typescript note](typescript-note.md)
 
