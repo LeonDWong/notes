@@ -21,3 +21,11 @@ Used in internally.
 #### poll
 
 Executes I/O related event, 
+
+#### check
+
+Executes `setImmediate`.
+
+#### close callback
+
+Executes close subscriber event, like `server.on('close')`.
