@@ -14,3 +14,8 @@ Efficient but hard to maintain. In the software architecture of BSD UNIX network
 
 *This pattern integrates synchronous and asynchronous I/O model in an efficient and well-structured manner.* Asynchronous is using in high-level(such database queries and file transfers). Synchronous is using in low-level(such as servicing interrupts form network controllers). High-level operation is much than low-level's, this pattern localize the complexity of asynchronous processing within a single layer of a software architecture. And communication between tasks in two layers is mediated by a Queueing layer(socket layer).
 
+
+## About
+
+[origin](https://www.cse.wustl.edu/~schmidt/PDF/PLoP-95.pdf)
+
