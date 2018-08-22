@@ -4,7 +4,7 @@
 * [First Chapter](chapter1.md)
 * [About TC39](about-tc39.md)
 * [git-about](git-about.md)
-* [HTTP](http.md)
+* [HTTP1.1](http.md)
 * [HTTP/2](http2.md)
 * [About Unit](about-unit.md)
 * [Web Security](web-security.md)
@@ -18,4 +18,5 @@
 * [typescript note](typescript-note.md)
 * [Node Event Loop](node-event-loop.md)
 * [Half-Sync/Half-Async](half-synchalf-async.md)
+* [Leader/Follwer](leaderfollwer.md)
 
