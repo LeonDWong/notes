@@ -18,5 +18,5 @@
 * [typescript note](typescript-note.md)
 * [Node Event Loop](node-event-loop.md)
 * [Half-Sync/Half-Async](half-synchalf-async.md)
-* [Leader/Follwer](leaderfollwer.md)
+* [Leader/Follower](leaderfollwer.md)
 
