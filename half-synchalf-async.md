@@ -1,6 +1,6 @@
 # Half-Sync/Half-Async
 
-**One of efficient pattern of concurrency model.**
+**One of efficient patterns of concurrency model.**
 
 ### Async
 
