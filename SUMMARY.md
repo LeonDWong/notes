@@ -20,4 +20,5 @@
 * [Half-Sync/Half-Async](half-synchalf-async.md)
 * [Leader/Follower](leaderfollwer.md)
 * [DNS](dns.md)
+* [Path Case](path-case.md)
 
