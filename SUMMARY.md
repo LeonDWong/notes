@@ -19,4 +19,5 @@
 * [Node Event Loop](node-event-loop.md)
 * [Half-Sync/Half-Async](half-synchalf-async.md)
 * [Leader/Follower](leaderfollwer.md)
+* [DNS](dns.md)
 
