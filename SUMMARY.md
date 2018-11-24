@@ -21,4 +21,6 @@
 * [Leader/Follower](leaderfollwer.md)
 * [DNS](dns.md)
 * [Path Case](path-case.md)
+* [command](command.md)
+* [time format](time-format.md)
 
