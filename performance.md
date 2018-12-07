@@ -4,6 +4,8 @@ Performance is based on DomHighResTimeStamp (timeOrigin and clock) on calculatio
 
 ### E.G.
 
+calculate the script execution time.
+
 ```javascript
 performance.mark("mySetTimeout-start");
 
