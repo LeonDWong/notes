@@ -24,4 +24,5 @@
 * [command](command.md)
 * [time format](time-format.md)
 * [Abbreviations](abbreviations.md)
+* [Performance](performance.md)
 
