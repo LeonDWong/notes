@@ -1,3 +1,9 @@
+## Core
+
+Performance is based on DomHighResTimeStamp (timeOrigin and clock) on calculation. It's helpful for developer to estimate the web performance in browser.
+
+### E.G.
+
 ```javascript
 performance.mark("mySetTimeout-start");
 
