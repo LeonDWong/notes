@@ -29,3 +29,7 @@ setTimeout(function() {
 
 }, 2000);
 ```
+
+
+### Timing Phase
+
