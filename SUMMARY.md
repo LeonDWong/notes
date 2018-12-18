@@ -26,4 +26,5 @@
 * [Abbreviations](abbreviations.md)
 * [Performance](performance.md)
 * [IDL vs DSL](idl-vs-dsl.md)
+* [GraphQL](graphql.md)
 
