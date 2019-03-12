@@ -28,4 +28,5 @@
 * [IDL vs DSL](idl-vs-dsl.md)
 * [Introduction](introduction.md)
 * [Http Status Code](http-status-code.md)
+* [About testing’s best practice](about-testings-best-practice.md)
 
