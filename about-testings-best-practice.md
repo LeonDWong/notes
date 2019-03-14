@@ -6,11 +6,13 @@
 
 ### Selecting Elements
 
->  **Anti-Pattern**: Using highly brittle selectors that are subject to change.
+>  ~~**Anti-Pattern**: Using highly brittle selectors that are subject to change.~~
 
->  **Best Practice**: Use **data-*** attributes to provide context to your selectors and insulate them from CSS or JS changes.
+>  ~~**Best Practice**: Use **data-*** attributes to provide context to your selectors and insulate them from CSS or JS changes.~~
 
 Not real for all case, using id is better than define specific data-XXX only for testing.
+
+### 
 
 
 
