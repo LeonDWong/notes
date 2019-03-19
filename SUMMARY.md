@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * [About TC39](about-tc39.md)
-* [git-about](git-about.md)
 * [HTTP1.1](http.md)
 * [HTTP/2](http2.md)
 * [About Unit](about-unit.md)
@@ -31,5 +30,5 @@
 * [About testing’s best practice](about-testings-best-practice.md)
 * [Recap of Unicode](recap-of-unicode.md)
 * [GraphQL Leaning Note](graphql-leaning-note.md)
-* [Git-about](git-about.md)
+* [git-about](git-about.md)
 
