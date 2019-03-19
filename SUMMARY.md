@@ -30,4 +30,6 @@
 * [Http Status Code](http-status-code.md)
 * [About testing’s best practice](about-testings-best-practice.md)
 * [Recap of Unicode](recap-of-unicode.md)
+* [GraphQL Leaning Note](graphql-leaning-note.md)
+* [Git-about](git-about.md)
 
