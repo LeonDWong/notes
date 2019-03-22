@@ -31,4 +31,12 @@ setTimeout(function() {
 ```
 
 ## Other metric
-It's coming from `performance` api
+
+There are more metric for us to measure our web's performance by using `performance.timing` to show detail of every phase until content in page is all downloaded.
+
+#### Phase
+
+| key | desc |
+|     |      |
+
+
