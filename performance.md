@@ -29,3 +29,6 @@ setTimeout(function() {
 
 }, 2000);
 ```
+
+## Other metric
+It's coming from `performance` api
