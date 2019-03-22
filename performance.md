@@ -32,11 +32,22 @@ setTimeout(function() {
 
 ## Other metric
 
-There are more metric for us to measure our web's performance by using `performance.timing` to show detail of every phase until content in page is all downloaded.
+There are more metric for us to measure our web's performance by using `performance.timing` or `performance.mark` and `performance.measure` to show detail of every phase until content in page is all downlowaded.
 
-#### Phase
+### Phase
+
+#### Navigation Timing
 
 | key | desc |
+| -- | -- |
 |     |      |
+
+
+#### Resource Timing
+
+#### User Timing
+
+
+
 
 
