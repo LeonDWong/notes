@@ -4,7 +4,7 @@ And once the request(newbie.com) is sending to DNS server, this action may foll
 
 1. First your request will ask your browser to check is there a cached or not, if not, go to ask the os, and your os will check cached list too, if there's no matched info in the list, go next.
 
-2. OS ask your resolver(server) to give the asker a certain ip once resolver know it, if not, goto step 2, nonetheless step 6.
+2. OS ask your resolver(server) to give the asker a certain ip once resolver know it, if not, goto step 3, nonetheless step 6.
 
 3. Your resolver try to ask root server which all ISP must know where it is. And a few milliseconds later, resolver meet the root server(one of thirteen to day around the world) and ask for TLDs(top-level domain, like .COM which is largest amount TLD) location and run to specific TLD.
 
